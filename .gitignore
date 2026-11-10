@@ -1,0 +1,17 @@
+# Secretos: nunca subir al repositorio
+.streamlit/secrets.toml
+
+# Datos locales y respaldos
+*.db
+respaldos/
+imagenes/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+Thumbs.db
+desktop.ini
